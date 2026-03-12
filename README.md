@@ -50,7 +50,10 @@ The model achieved high accuracy during testing and can effectively identify pat
 ## Note
 
 The trained model file is not uploaded due to GitHub file size limitations.
+
 To generate the model locally, run:-  python train_model.py
+
 This will create the trained model file:-  model/lung_cancer_model.h5
+
 After that run the application:-  streamlit run app.py
 
