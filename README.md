@@ -1,7 +1,7 @@
 
 # 🫁 Lung Cancer Detection Using CNN
 
-##  Developer Information
+##  Information
 Made by: Angel Jain  
 Project Title: Lung Cancer Detection Using Convolutional Neural Network (CNN)
 
