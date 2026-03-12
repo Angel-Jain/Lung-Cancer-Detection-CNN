@@ -42,6 +42,11 @@ The system provides:
 
 The model achieved high accuracy during testing and can effectively identify patterns in CT scan images.
 
+<img width="1600" height="492" alt="image" src="https://github.com/user-attachments/assets/3ce6f239-c566-4347-8995-1d09bc51fa4e" />
+<img width="1600" height="842" alt="image" src="https://github.com/user-attachments/assets/291d211c-554a-42ce-86ba-a44b394386bc" />
+
+
+
 ## Note
 
 The trained model file is not uploaded due to GitHub file size limitations.
